@@ -4,3 +4,4 @@ Christian Auman
 <br>Andrew Leonard
 <br>Peter Nguyen
 <br>Layth Alabed
+<br>Elijah Rogers
