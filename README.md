@@ -6,3 +6,4 @@ Christian Auman
 <br>Layth Alabed
 <br>Elijah Rogers
 <br>James Markijohn
+<br>Jacob Kotik
