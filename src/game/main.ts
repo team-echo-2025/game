@@ -1,4 +1,4 @@
-import { MenuScene } from './scenes/MenuScene';
+import MenuScene from './scenes/MenuScene';
 import { AUTO, Game, Types } from "phaser";
 
 //  Find out more information about the Game Config at:
@@ -19,7 +19,7 @@ const config: Types.Core.GameConfig = {
         }
     },
     scene: [
-        MenuScene
+        MenuScene,
     ]
 };
 
