@@ -148,6 +148,26 @@ export default class Player {
                     this.#player?.setFrame(24);
                 }
                 break;
+            case (Direction.NORTHEAST):
+                if (!this.#is_moving) {
+                    this.#player?.setFrame(8);
+                }
+                break;
+            case (Direction.NORTHWEST):
+                if (!this.#is_moving) {
+                    this.#player?.setFrame(8);
+                }
+                break;
+            case (Direction.SOUTHEAST):
+                if (!this.#is_moving) {
+                    this.#player?.setFrame(0);
+                }
+                break;
+            case (Direction.SOUTHWEST):
+                if (!this.#is_moving) {
+                    this.#player?.setFrame(0);
+                }
+                break;
         }
     }
 
